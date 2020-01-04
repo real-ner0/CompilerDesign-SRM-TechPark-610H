@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578144205 source:c:\users\shubham sinha\documents\cpp projs\compiler design\text editor\texteditor\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	<string>
+
