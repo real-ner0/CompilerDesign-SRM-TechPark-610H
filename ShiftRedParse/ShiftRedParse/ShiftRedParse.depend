@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583226099 source:c:\users\admin\documents\shubham\shiftredparse\shiftredparse\main.cpp
+	<conio.h>
+	<iostream>
+	<string.h>
+
