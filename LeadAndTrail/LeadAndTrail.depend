@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583227063 source:c:\users\admin\documents\shubham\leadandtrail\leadandtrail\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
